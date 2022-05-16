@@ -21,7 +21,7 @@ The output file will be a CSV containing all of the outputs.
 The data comes from the Kaggle challenge: "Z by HP Unlocked Challenge 3 - Signal Processing".
 https://www.kaggle.com/datasets/kenjee/z-by-hp-unlocked-challenge-3-signal-processing
 
-**The Task**
+## The Task
 
 The Challenge is to build a Machine Learning model and code to count the number of Capuchinbird calls within a given clip. This can be done in a variety of ways and we would recommend that you do some research into various methods of audio recognition.
 
