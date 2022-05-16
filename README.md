@@ -1,6 +1,8 @@
 # Deep Learning Audio Recognition classifier
 
-We got 2-5 seconds audio sample of bird calls for this short project. We'll read these files into Python and use the TensorFlow package.
+We got 2-5 seconds audio sample of Capuchinbird bird calls for this project. We'll read these files into Python and use the TensorFlow package.
+
+![App Screenshot](https://1c7gnu28cnefcask1kjk6k1d-wpengine.netdna-ssl.com/wp-content/uploads/2013/11/Capuchinbird.png)
 
 The audio files are waveforms, and we want to convert them to spectograms.
 
