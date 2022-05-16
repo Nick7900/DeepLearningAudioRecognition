@@ -1,7 +1,4 @@
-# DeepLearningAudioRecognition
-
-
-# Audio classifier
+# Deep Learning Audio Recognition classifier
 
 We got 2-5 seconds audio sample of bird calls for this short project. We'll read these files into Python and use the TensorFlow package.
 
